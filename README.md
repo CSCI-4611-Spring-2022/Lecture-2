@@ -15,6 +15,7 @@ To work with this code, you will first need to install [Node.js](https://nodejs.
 - Hit testing and collision detection
 - 2D animation
 - Importing external assets
+- Geometry instancing
 - Overview of assignment 1
 
 ## Running
