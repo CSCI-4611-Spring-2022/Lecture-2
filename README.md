@@ -10,9 +10,11 @@ To work with this code, you will first need to install [Node.js](https://nodejs.
 
 - Anatomy of a Node.js project
 - Introduction to 2D vector graphics
+- Introduction to TypeScript
 - Drawing paths and shapes
+- Hit testing and collision detection
+- 2D animation
 - Importing external assets
-- Game loops and animation
 - Overview of assignment 1
 
 ## Running

@@ -5,7 +5,6 @@
  */ 
 
 import * as paper from 'paper';
-import { Tool } from 'paper/dist/paper-core';
 
 class Game 
 {
