@@ -1,6 +1,6 @@
 # Lecture 2: Programming 2D Graphics
 
-Detailed explanation of this code can be found in the lecture video (will be added after class).
+Detailed explanation of this code can be found in the [lecture video](https://mediaspace.umn.edu/media/t/1_82qcjrft).
 
 ## Prerequisites
 
@@ -12,11 +12,8 @@ To work with this code, you will first need to install [Node.js](https://nodejs.
 - Introduction to 2D vector graphics
 - Introduction to TypeScript
 - Drawing paths and shapes
-- Hit testing and collision detection
-- 2D animation
-- Importing external assets
-- Geometry instancing
-- Overview of assignment 1
+- Handling user input
+- Hit testing
 
 ## Running
 
