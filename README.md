@@ -2,6 +2,8 @@
 
 Detailed explanation of this code can be found in the [lecture video](https://mediaspace.umn.edu/media/t/1_82qcjrft).
 
+You can run the program on [GitHub pages](https://csci-4611-spring-2022.github.io/Lecture-2).
+
 ## Prerequisites
 
 To work with this code, you will first need to install [Node.js](https://nodejs.org/en/) and [Visual Studio Code](https://code.visualstudio.com/). 
